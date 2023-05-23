@@ -1,2 +1,1 @@
-# gitlearn
-only for learning git
+# c-project
